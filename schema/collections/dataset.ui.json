@@ -6,7 +6,7 @@
   },
   "title": {
     "ui:options": {
-      "description": "Name des Datensatz, in allgemeiner Sprache. Include sufficient detail to facilitate search and discovery."
+      "description": "Name des Kölner Datensatzes, in allgemeiner Sprache. Include sufficient detail to facilitate search and discovery."
     }
   },
   "identifier": {
